@@ -17,5 +17,5 @@ Calculator can perform
 - CSS
 - JAVASCRIPT
 
-# How it looks
+## How it looks
 ![screenshot](https://user-images.githubusercontent.com/99599542/209478796-ed5a1d71-3fe2-496d-b5be-ceeb2bc24e69.png)
